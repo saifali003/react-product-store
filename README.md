@@ -1,16 +1,19 @@
-# React + Vite
+🛍️ React Product Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional React Product Store application with API integration, cart system, search functionality, and modern UI using Tailwind CSS.
 
-Currently, two official plugins are available:
+🚀 Live Features
+🔥 Fetch products from API
+🛒 Add to Cart / Remove from Cart
+🔍 Search products in real-time
+📄 Separate Cart Page (React Router)
+🎨 Responsive UI with Tailwind CSS
+⚡ Fast and clean user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧠 Tech Stack
+React.js
+Context API (State Management)
+React Router DOM
+Tailwind CSS
+FakeStore API
+Project-link :- https://react-product-store-ten.vercel.app/
